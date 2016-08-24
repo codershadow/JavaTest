@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<!--手机可以用这个适应屏幕-->
+<meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+<center>
+<form action="" method="post">
+name:<input type="text" name="name"></br>
+password:<input type="password" name="pwd"></br>
+<input type="submit" name="submit" value="submit">
+</form>
+</center>
+</body>
+</html>
